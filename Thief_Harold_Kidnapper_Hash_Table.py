@@ -1,6 +1,6 @@
 x,y=input().split()
 x=int(x)
-y=int(x)
+y=int(y)
 magazine=input()
 note=input()
 note_list=list(note.split())
